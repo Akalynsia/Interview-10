@@ -49,7 +49,7 @@ const Captcha = () => {
         setQuestion("What was the Emre Aydin's favorite rank in Kahoot Games?");
         break;
       case 6:
-        setQuestion("What did Yunus named himself most of the Kahoot games?");
+        setQuestion("What did Yunus name himself most of the Kahoot games?");
         break;
       default:
         setQuestion("");
